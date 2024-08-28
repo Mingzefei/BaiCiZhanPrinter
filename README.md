@@ -29,6 +29,8 @@ BaiCiZhanPrinter 可以将手机端APP百词斩中的已背单词表导出。
    2. 将 `baicizhantopicproblem.db`（包含已背的单词）和 `lookup.db`（包含所有单词）导出到电脑。
 2. 在电脑上运行 `main.py`，按提示操作。
 
+![1724832374705](image/README/1724832374705.png)
+
 ## 鸣谢
 
 本项目参考了以下项目：
